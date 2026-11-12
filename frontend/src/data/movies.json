@@ -1,0 +1,66 @@
+[
+  {
+    "id": "inception",
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-fi · Thriller",
+    "description": "A skilled thief enters people's dreams to steal their secrets.",
+    "poster": "https://picsum.photos/seed/movie-inception/600/900"
+  },
+  {
+    "id": "interstellar",
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-fi · Adventure",
+    "description": "A team travels beyond this galaxy to find a future for humanity.",
+    "poster": "https://picsum.photos/seed/movie-interstellar/600/900"
+  },
+  {
+    "id": "the-dark-knight",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action · Crime",
+    "description": "Batman faces a criminal mastermind who brings chaos to Gotham.",
+    "poster": "https://picsum.photos/seed/movie-dark-knight/600/900"
+  },
+  {
+    "id": "parasite",
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Drama · Thriller",
+    "description": "Two families become connected through an unexpected opportunity.",
+    "poster": "https://picsum.photos/seed/movie-parasite/600/900"
+  },
+  {
+    "id": "spirited-away",
+    "title": "Spirited Away",
+    "year": 2001,
+    "genre": "Animation · Fantasy",
+    "description": "A young girl discovers a mysterious world of spirits.",
+    "poster": "https://picsum.photos/seed/movie-spirited-away/600/900"
+  },
+  {
+    "id": "the-grand-budapest-hotel",
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "genre": "Comedy · Adventure",
+    "description": "A hotel concierge and his protégé become part of a caper.",
+    "poster": "https://picsum.photos/seed/movie-grand-budapest/600/900"
+  },
+  {
+    "id": "everything-everywhere",
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "genre": "Sci-fi · Comedy",
+    "description": "An ordinary woman discovers she may be the key to the multiverse.",
+    "poster": "https://picsum.photos/seed/movie-everything-everywhere/600/900"
+  },
+  {
+    "id": "the-shawshank-redemption",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "description": "A banker builds an unlikely friendship during a long prison sentence.",
+    "poster": "https://picsum.photos/seed/movie-shawshank/600/900"
+  }
+]

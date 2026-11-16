@@ -12,7 +12,7 @@ title, release year, or genre, and save movies they want to revisit.
 - Keep favorites saved in the current browser using local storage.
 - View information about the project and its developer on the About page.
 
-The collection is maintained in `frontend/src/data/movies.json`, so movie information
+The collection is maintained in `frontend/src/data/movies.js`, so movie information
 can be updated alongside the application.
 
 ## Built with

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import movies from "./data/movies.json";
+import movies from "./data/movies";
 import NavBar from "./components/NavBar";
 import About from "./pages/About";
 import Favorites from "./pages/Favorites";

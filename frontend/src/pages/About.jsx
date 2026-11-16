@@ -24,11 +24,12 @@ function About() {
           heart button on a movie card to add or remove it from Favorites.
           Your saved list stays in this browser, even when you come back later.
         </p>
-        <h2>About the collection</h2>
+        <h2>About the developer</h2>
         <p>
-          Movie details are kept in a simple JSON file, making it easy to add
-          titles or update information. The poster artwork is placeholder
-          imagery and can be replaced with real movie posters at any time.
+          I build web applications and responsive user interfaces with React,
+          JavaScript, HTML, and CSS. I enjoy creating clear, easy-to-use
+          experiences, and built Movie Shelf to bring those skills to a simple
+          way to browse films and save favorites.
         </p>
       </section>
     </main>
